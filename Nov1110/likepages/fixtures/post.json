@@ -1,0 +1,50 @@
+[
+    {
+        "pk": 1,
+        "model": "likepages.post",
+        "fields": {
+            "title": "첫글이다!",
+            "content": "좋아요를 눌러주세요."
+        }
+    },
+    {
+        "pk": 2,
+        "model": "likepages.post",
+        "fields": {
+            "title": "두번째 글",
+            "content": "제 글도 추천해주세요."
+        }
+    },
+    {
+        "pk": 3,
+        "model": "likepages.post",
+        "fields": {
+            "title": "세번째",
+            "content": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+    },
+    {
+        "pk": 4,
+        "model": "likepages.post",
+        "fields": {
+            "title": "4444",
+            "content": "ㅇㅇㅇㅇ"
+        }
+    },
+    {
+        "pk": 5,
+        "model": "likepages.post",
+        "fields": {
+            "title": "벌써 5",
+            "content": "5번째 글임!"
+        }
+    },
+    {
+        "pk": 6,
+        "model": "likepages.post",
+        "fields": {
+            "title": "6",
+            "content": "bb"
+        }
+    }
+]
